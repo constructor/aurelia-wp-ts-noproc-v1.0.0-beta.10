@@ -1,0 +1,10 @@
+au new --here
+
+1 Webpack
+1 HTTP/1.1
+1 Web (Default)
+2 Typescript
+1 No markup processing
+1 No css processing
+1 No testing
+1 No integration testing
